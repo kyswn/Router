@@ -1,5 +1,4 @@
-Name: Yining Wang
-UID: 504983099
+
 
 high level design:
 
