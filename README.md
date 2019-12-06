@@ -1,4 +1,4 @@
-
+I used C++ to implement a simple router with a static routing table. It receives ethernet frames and process them: forward them to the right interface, create new frames, etc.
 
 high level design:
 
